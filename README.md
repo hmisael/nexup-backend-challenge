@@ -49,15 +49,15 @@ Se espera obtener la respuesta como un _string_ con el formato `<nombre_supermer
 ## Pasos a seguir:
 1. Clone este repositorio en su máquina local usando Git.
    ```bash
-   git clone https://gitlab.com/nexup/nexup-backend-challenge.git
+   git clone https://gitlab.com/nexup/nexup_backend_challenge.git
    ```
 2. Crea un repositorio vacío en tu cuenta de GitHub con el mismo nombre de este.
    ```bash
-    nexup-backend-challenge
+    nexup_backend_challenge
    ```
 3. Muevesé a la carpeta del proyecto.
    ```bash
-   cd ./nexup-backend-challenge
+   cd ./nexup_backend_challenge
    ```
 4. Cambia la URL remota del repositorio clonado de GitHub, por la URL de tu repositorio.
    ```bash
